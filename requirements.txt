@@ -2,4 +2,4 @@ pandas
 numpy
 seaborn
 -e .
-#//to trigger setup.py file
+#editable mode//to trigger setup.py file
