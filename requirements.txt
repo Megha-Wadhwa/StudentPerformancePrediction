@@ -3,5 +3,8 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+catboost
+xgboost
+dill
 #-e .
 #editable mode//to trigger setup.py file
